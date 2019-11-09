@@ -37,7 +37,8 @@ Then click on transaction-analyze-controller link, Will display POST uri,
 After then click on Try it now will display the input parameters and click on execute button,
 
 Response will display below details, 
-Number of transactions
+
+Number of transactions and
 Average Transaction Value
 
 
